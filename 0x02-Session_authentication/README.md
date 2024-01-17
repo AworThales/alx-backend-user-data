@@ -65,4 +65,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Thales Awor** - [AworThales](https://github.com/AworThales)
